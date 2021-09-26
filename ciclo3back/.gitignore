@@ -4,6 +4,8 @@
 #!**/src/main/**/target/
 #!**/src/test/**/target/
 
+application.properties
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
